@@ -1,0 +1,6 @@
+framework module Pods_iosgooglemapsstudy {
+  umbrella header "Pods-iosgooglemapsstudy-umbrella.h"
+
+  export *
+  module * { export * }
+}
